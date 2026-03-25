@@ -3,8 +3,8 @@ package:
   version: "1.0.2"
 
 source:
-  url: https://github.com/ssg-aero/libIGES/archive/refs/tags/v1.0.2a.tar.gz
-  sha256: 8f997eaf3a8cd74497ec6333c96e4743b87ab29f88f14b4c85552c29b62eaf67
+  url: https://github.com/ssg-aero/libIGES/archive/refs/tags/v1.0.2.b.tar.gz
+  sha256: 903ed78949e0cfdb98fd5817d4182be4be647c712083955007d4ce4b2ffe5371
 
 build:
   number: 0
